@@ -9,6 +9,6 @@
 скачиваем gradle/wrapper/graddle-wrapper.jar
 переносим в любое удобное место
 далее устанавливаем плагин в IDEA
-(settings - plugins - install plaguin from disk - выбираем плагин)
+(settings - plugins - install plugin from disk - выбираем плагин)
 
 
